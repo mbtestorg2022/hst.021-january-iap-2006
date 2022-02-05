@@ -22,7 +22,36 @@ There is one problem set and a final exam for this course.
 Grading
 -------
 
-| Activities | Percentages |
-| --- | --- |
-| Problem Set | 10% |
-| Final Exam | 90%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Activities
+{{< thclose >}}
+{{< thopen >}}
+Percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+90%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
